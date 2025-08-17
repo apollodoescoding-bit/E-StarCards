@@ -10,4 +10,4 @@ To use this in VScode, you need to:
 5. Lastly, select the files and run it through!!
 
 (This is my first time using github sorry xd)
-Special thanks to my dad, my friend, Gemini AI, tutorials for helping me  
+Special thanks to my friend, Gemini AI, tutorials for helping me  
