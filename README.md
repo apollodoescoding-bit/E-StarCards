@@ -5,4 +5,4 @@ This is a prototype for MMU Students where you create and study your flashcards,
 To use this in VScode, you need to install each file, and then combine it into a folder. Run the folder in VSCode and there you go!!
 (This is my first time using github sorry xd)
 
-Special thanks to Gemini alongside with tutorials for helping me 
+Special thanks to my dad, Gemini AI, tutorials for helping me  
